@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RESTFull.Domain.Model.Achievement" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAQAACAgA=</HashCode>
+      <FileName>Model\Achievement.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Person" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RESTFull.Domain.Model.CreativeActivities" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>Model\CreativeActivities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTFull.Domain.Model.IntellectualContests" Collapsed="true">
+    <Position X="13.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAgA=</HashCode>
+      <FileName>Model\IntellectualContests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTFull.Domain.Model.Olympiads" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAEAAgA=</HashCode>
+      <FileName>Model\Olympiads.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTFull.Domain.Model.Person" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Model\Person.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Achievement" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="RESTFull.Domain.Model.ScienceActivities" Collapsed="true">
+    <Position X="16" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>Model\ScienceActivities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTFull.Domain.Model.SocioCultural" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>Model\SocioCultural.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTFull.Domain.Model.Sport" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAACgA=</HashCode>
+      <FileName>Model\Sport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTFull.Domain.Achievement">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAQAAAAgA=</HashCode>
+      <FileName>Achievement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RESTFull.Domain.CreativeActivities">
+    <Position X="9" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>CreativeActivities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTFull.Domain.IntellectualContests">
+    <Position X="13.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IntellectualContests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTFull.Domain.Olympiads">
+    <Position X="4.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Olympiads.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTFull.Domain.ScienceActivities">
+    <Position X="11.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ScienceActivities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTFull.Domain.SocioCultural">
+    <Position X="15.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>SocioCultural.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTFull.Domain.Sport">
+    <Position X="6.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAACAA=</HashCode>
+      <FileName>Sport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
